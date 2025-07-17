@@ -1,18 +1,18 @@
 # 👩‍💻 Hi, I’m Kavya!  
 
 🎓 **B.Tech – Electronics & Communication Engineering**  
-💡 Passionate about **Software Development, QA Testing, and IoT**  
-🌱 Open to **Entry‑Level Roles** in **Python Development | QA Testing | Salesforce**  
+💡 Passionate about **Data Analytics,Software Development and IoT**  
+🌱 Open to **Entry‑Level Roles** in **Python Development | Data Analytics | Salesforce**  
 
 ---
 
 ## ✨ About Me  
-- 🔭 **Currently Learning:** QA / Software Testing, Salesforce Development  
-- ⚡ **Core Skills:** Python, MySQL, HTML, Arduino, IoT  
+- 🔭 **Currently Learning:** Data Analytics
+- ⚡ **Core Skills:** Python, MySQL, HTML,Basic SQL,Excel, Arduino, IoT  
 - 🤖 **Built:** Home Automation (Bluetooth & Arduino)  
 - 🧤 **Research Project:** IoT Wearable Gesture‑to‑Speech Translator  
 - 💼 **Internships:** Salesforce Developer & MySQL Database Intern  
-- 📌 **Career Goal:** To contribute as a **Software Developer / QA Engineer / Salesforce Developer**
+- 📌 **Career Goal:** To contribute as a **Data Analytics/Software Developer/Python Developer / Salesforce Developer**
 
 ---
 
@@ -20,10 +20,10 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![QA Testing](https://img.shields.io/badge/QA%20Testing-FF6F61?style=for-the-badge)
+
 
 ---
 
@@ -36,7 +36,7 @@
 | [Python Mini Apps](#) | Python, MySQL | CRUD operations & automation scripts. |
 | [Salesforce Tasks](#) | Salesforce | Custom objects, workflows, and triggers. |
 
-*(👉 Add links to repos when you upload them!)*
+
 
 ---
 
@@ -49,8 +49,8 @@
 
 ## 🎯 What I’m Looking For  
 ✅ **Entry‑level roles in:**  
-✔️ Python Development  
-✔️ QA / Software Testing  
+✔️ Python Development
+✔️ Data Analytics
 ✔️ Salesforce Development  
 ✔️ IoT & Embedded Systems  
 
@@ -60,7 +60,7 @@
 
 ## 🤝 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-📧 **your.email@example.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kavya-annagiri)  
+📧 **annagirikavya05@gmail.com**  
 
 💡 *Feel free to check my repositories, star ⭐ them, or reach out if you have opportunities or feedback!*  
