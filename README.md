@@ -61,6 +61,6 @@
 ## 🤝 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kavya-annagiri)  
-📧 **annagirikavya05@gmail.com**  
+📧 **www.linkedin.com/in/kavya-annagiri**  
 
 💡 *Feel free to check my repositories, star ⭐ them, or reach out if you have opportunities or feedback!*  
