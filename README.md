@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I’m Kavya!  
  
 💡  **Aspiring Data Analyst | SQL | Python | Power BI | Excel**  
-I'm a B.Tech Computer Science graduate passionate about turning data into meaningful insights and building interactive dashboards for better decision-making. 
+      I'm a B.Tech Computer Science graduate passionate about turning data into meaningful insights and building interactive dashboards for better decision-making 
 
 ---
 
