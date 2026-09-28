@@ -23,10 +23,12 @@ Built an interactive Power BI dashboard to analyze sales, profit, product perfor
 Developed an interactive HR analytics dashboard to analyze workforce demographics, compensation, employee performance, and attrition using Power BI, Power Query, and DAX.
 # 🌱 Currently Learning
 Advanced SQL
-DAX and Power BI
-Excel for Data Analysis
-Python for Data Analysis
-Data Analytics interview preparation
+
+Advanced DAX and Power BI
+
+Data Analytics concepts
+
+Data Analyst interview problem-solving
 
 
 ## ✨ About Me  
