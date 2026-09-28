@@ -29,6 +29,16 @@ Advanced DAX and Power BI
 Data Analytics concepts
 
 Data Analyst interview problem-solving
+# 🎯 Areas of Interest
+Data Analytics
+
+Business Intelligence
+
+Data Visualization
+
+Dashboard Development
+
+Business Data Analysis
 
 
 ## ✨ About Me  
