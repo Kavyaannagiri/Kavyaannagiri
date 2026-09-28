@@ -3,13 +3,13 @@
 💡  **Aspiring Data Analyst | SQL | Python | Power BI | Excel**  
       I'm a B.Tech Electronics & Communication Engineeringgraduate passionate about turning data into meaningful insights and building interactive dashboards for better decision-making 
       
-🛠️ Skills
+**🛠️ Skills**
 
 SQL – Data querying, joins, subqueries, CTEs, window functions
 Python – Data analysis and problem solving
 Power BI – Data visualization, Power Query, DAX, interactive dashboards
 Excel – Data cleaning, analysis and reporting
----
+
 
 ## ✨ About Me  
 - 🔭 **Currently Learning:** Data Analytics
