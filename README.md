@@ -4,6 +4,7 @@
       I'm a B.Tech Electronics & Communication Engineeringgraduate passionate about turning data into meaningful insights and building interactive dashboards for better decision-making 
       
 🛠️ Skills
+
 SQL – Data querying, joins, subqueries, CTEs, window functions
 Python – Data analysis and problem solving
 Power BI – Data visualization, Power Query, DAX, interactive dashboards
