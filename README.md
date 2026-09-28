@@ -12,6 +12,15 @@ Python – Data analysis and problem solving
 Power BI – Data visualization, Power Query, DAX, interactive dashboards
 
 Excel – Data cleaning, analysis and reporting
+# Feautured Projects:-
+
+**📊 E-commerce Sales Dashboard**
+
+Built an interactive Power BI dashboard to analyze sales, profit, product performance, regional performance, and sales trends using Power Query and DAX.
+
+**👥 HR Analytics Dashboard**
+
+Developed an interactive HR analytics dashboard to analyze workforce demographics, compensation, employee performance, and attrition using Power BI, Power Query, and DAX.
 
 
 ## ✨ About Me  
