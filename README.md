@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I’m Kavya!  
 
 🎓 **B.Tech – Electronics & Communication Engineering**  
-💡 Passionate about **Data Analytics,Software Development**  
+💡  **Aspiring Data Analyst | SQL | Python | Power BI | Excel**  
 🌱 Open to **Entry‑Level Roles** in **Python Development | Data Analytics | Salesforce**  
 
 ---
