@@ -39,6 +39,8 @@ Data Visualization
 Dashboard Development
 
 Business Data Analysis
+# 📫 Connect With Me
+LinkedIn: [https://www.linkedin.com/in/kavya-annagiri]
 
 
 ## ✨ About Me  
