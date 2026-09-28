@@ -6,8 +6,11 @@
 **🛠️ Skills**
 
 SQL – Data querying, joins, subqueries, CTEs, window functions
+
 Python – Data analysis and problem solving
+
 Power BI – Data visualization, Power Query, DAX, interactive dashboards
+
 Excel – Data cleaning, analysis and reporting
 
 
